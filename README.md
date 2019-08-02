@@ -4,7 +4,7 @@ A proof that the Halting Problem is undecidable
 Geoffrey K. Pullum
 (School of Philosophy, Psychology and Language Sciences, University of Edinburgh)
 
-No general procedure for bug checks succeeds.
+No general procedure for bug checks succeeds.\
 Now, I won’t just assert that, I’ll show where it leads:
 I will prove that although you might work till you drop,
 you cannot tell if computation will stop.
